@@ -23,6 +23,38 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "La Camaron 2",
+      "price": "69.90",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie 2",
+      "price": "25.90",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie 3",
+      "price": "20.90",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "La Camarón 3",
+      "price": "59.90",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "available": true,
+      "id": 7
     }
   ]
 }
